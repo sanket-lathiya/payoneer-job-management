@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.payoneer.jobmanagement.DelayBasedJobManagerServiceTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 113.141 s - in com.payoneer.jobmanagement.DelayBasedJobManagerServiceTests
